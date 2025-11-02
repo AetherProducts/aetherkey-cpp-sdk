@@ -114,3 +114,6 @@ fabric.properties
 .idea
 .env
 .vscode
+CMakeSettings.json
+build
+.vs
